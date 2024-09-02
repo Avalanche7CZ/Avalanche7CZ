@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgur.com/a/aJrpFht"  />
+<img align="right" height="150" src="https://i.imgflip.com/925uvt.gif"  />
 
 ###
 
@@ -37,5 +37,11 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Avalanche7CZ/Avalanche7CZ/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Avalanche7CZ/count.svg?"  />
+</div>
 
 ###
