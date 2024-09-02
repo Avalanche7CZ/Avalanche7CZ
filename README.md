@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on: ForgeAnnouncements Minecraft Mod</p>
+🔭 I’m currently working on: [ForgeAnnouncements Minecraft Mod](https://github.com/Avalanche7CZ/ForgeAnnouncements)
 
 ###
 
