@@ -7,6 +7,14 @@
 ###
 
 <div align="center">
+  <a href="https://open.spotify.com/user/prn5rekptizl13lhh0rj3k8qi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=prn5rekptizl13lhh0rj3k8qi&count=1&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Avalanche7CZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Avalanche7CZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
