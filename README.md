@@ -1,8 +1,10 @@
 <h2 align="left">Hi 👋! My name is Avalanche7CZ</h2>
 
 ###
+<div align="center">
 
-🔭 I’m currently working on: [ForgeAnnouncements Minecraft Mod](https://github.com/Avalanche7CZ/ForgeAnnouncements)
+##### 🔭 I’m currently working on: <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Avalanche7CZ&repo=ForgeAnnouncements&theme=dracula)](https://github.com/Avalanche7CZ/ForgeAnnouncements)<br>
 
 ###
 
