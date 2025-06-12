@@ -4,7 +4,7 @@
 <div align="center">
 
 ##### 🔭 I’m currently working on: <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Avalanche7CZ&repo=ForgeAnnouncements&theme=dracula)](https://github.com/Avalanche7CZ/ForgeAnnouncements)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Avalanche7CZ&repo=Paradigm&theme=dracula)](https://github.com/Avalanche7CZ/Paradigm)<br>
 
 ###
 
